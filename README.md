@@ -1,5 +1,7 @@
 #  QR Code Scanner App
-Name : Saaji 
+Name : Maxamed cabdullahi xirsi
+Class : CA195
+ID. : C118491
 Class CA195
 <div style="text-align: center">
     <table>
